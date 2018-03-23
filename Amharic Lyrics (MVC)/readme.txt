@@ -18,4 +18,7 @@ telegram - bot name = mukera
 // tracks and lyrics are not provided in to database for most artist listed there.   For trial purpose
 only teddy afro's data are available.
 
-thank you
+files
+* lyrics.php - this is the website script
+* index.php - this is telegram bot script
+* db.php - this makes db update and retrieval
