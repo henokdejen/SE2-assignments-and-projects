@@ -11,7 +11,7 @@ musics and the system shows them lyrics for the music.
 
 
 The application is hosted in 00webhost
-website - 00web./
+website - https://botmukera.000webhostapp.com/lyrics.php
 telegram - bot name = mukera
 	 - username = @yamihaendiebot
 
