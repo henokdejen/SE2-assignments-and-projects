@@ -1,0 +1,1 @@
+these are srs and sds document for cinema ticket project
